@@ -28,7 +28,7 @@ public:
 		if (_volume_fuel != NULL)
 			cout << "\t" << "Количество топлива " << _volume_fuel << endl;
 		else
-			cout << "\t" << "Количество топлива не указана" << endl;
+			cout << "\t" << "Количество мест не указана" << endl;
 		cout << "\t" << "Количество мест " << _number_seats << endl;
 		cout << endl;
 	}
